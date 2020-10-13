@@ -8,6 +8,6 @@ For fun I would like to go for hike, watch movies on netflix.
 check Branch answer-one
 
 Profile:
- linkedin.com/in/rajashree-halingale-367666178
+ linkedin.com/in/rajashreehalingale
 "Technical Skills":
-.net, c#, vb.net, SQL, AWS
+Node.js, AWS, MySQL, React,voice technology,.net, c#, vb.net, SQL
